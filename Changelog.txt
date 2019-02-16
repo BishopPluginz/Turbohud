@@ -1,0 +1,7 @@
+bishop8.0.zip - Simplistic, Wizard Meteor tracking, normal rift utilities
+bishop8.1.zip - Added Wizard functionality with mulitiple skills for starpact.
+                Lowered ground effects circular data for poison.
+                Lowered ground effects circular data for desecrator.
+bishop8.2.zip - Added Group tracking to minimap for ease when searching pools.
+                Added customization to ancient and primal probability tracker now visible on the left of health globe.
+                Modified Starpactdensity to make it more visible.

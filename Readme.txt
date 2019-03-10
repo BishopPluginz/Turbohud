@@ -12,8 +12,13 @@ bishopv8.3.zip - Complete overhaul on fonts. Made the overlay much more minimali
 bishopv8.4.zip - ***Added distance tracking for various activities with Zei's Gem, steadyaim, etc.***
                 ***Added arrow waypointing to elites and champions, removed minion tracking.***
                 ***Added bounty tracking and cursed peat chest management.***
-bishopv8.5.zip  Complete Font overhaul to Calibri
+bishopv8.5.zip - Complete Font overhaul to Calibri
                 ***Modified script to reflect number of GR keystones on Inventory screen.***
+bishopv8.6.zip - ***Added Globe Tracking***
+                 ***Added Dangerous Traps Plugins, Forges***
+                 ***Added Names under players***
+                 
+To Do: Archon Tracking for the Team
 
 # Turbohud
 

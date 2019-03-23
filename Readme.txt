@@ -17,6 +17,8 @@ bishopv8.5.zip - Complete Font overhaul to Calibri
 bishopv8.6.zip - ***Added Globe Tracking***
                  ***Added Dangerous Traps Plugins, Forges***
                  ***Added Names under players***
+bishopv8.7.zip - ***Added Archon and other buff tracking the the group***
+                    - still not optimized
 bishopv9.0.zip - All plugins updated to Turbohud v9.0
                  Minor placement changes but nothing that impactful
                  

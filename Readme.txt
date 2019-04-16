@@ -21,6 +21,11 @@ bishopv8.7.zip - ***Added Archon and other buff tracking the the group***
                     - still not optimized
 bishopv9.0.zip - All plugins updated to Turbohud v9.0
                  Minor placement changes but nothing that impactful
+bishopv9.1.zip - Better Archon Tracking in metas, sounds to notify
+                 Class Circles are back
+                 Removed Paragon Snapshotting
+                 Removed Danger plugin
+                 Added Face on minimaps
                  
                  
 Todolist: Pylon/Shrine tracking still not functioning to my standards, needs optimization.

@@ -26,10 +26,12 @@ bishopv9.1.zip - Better Archon Tracking in metas, sounds to notify
                  Removed Paragon Snapshotting
                  Removed Danger plugin
                  Added Face on minimaps
+                 ****Fixed Exceptions from season 17 prepatch****
                  
                  
 Todolist: Pylon/Shrine tracking still not functioning to my standards, needs optimization.
           Group Info while in party lacks information.
+          
 
 # Turbohud
 
